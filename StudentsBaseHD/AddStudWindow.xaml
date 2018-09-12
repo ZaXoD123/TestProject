@@ -1,0 +1,26 @@
+﻿<Window x:Class="StudentsBaseHD.AddStudWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentsBaseHD"
+        mc:Ignorable="d"
+        Title="Добавить" Height="200" Width="250" ResizeMode="NoResize">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Label Content="Фамилия:" HorizontalAlignment="Stretch" VerticalAlignment="Top" Grid.Column="0" Margin="10,20,0,0"/>
+        <Label Content="Факультет:" HorizontalAlignment="Stretch" VerticalAlignment="Top" Grid.Column="0" Margin="10,40,0,0"/>
+        <Label Content="Год рождения:" HorizontalAlignment="Stretch" VerticalAlignment="Top" Grid.Column="0" Margin="10,60,0,0"/>
+        <TextBox x:Name="LastNameTB" Grid.Column="1" HorizontalAlignment="Stretch"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="10,24,20,0" />
+        <TextBox x:Name="FacultyTB" Grid.Column="1" HorizontalAlignment="Stretch"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="10,44,20,0"  />
+        <TextBox x:Name="BTHYearTB" Grid.Column="1" HorizontalAlignment="Stretch"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="10,64,20,0"  />
+        <Button Content="Отмена" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="75" Margin="20,0,0,20" Grid.Column="0" Background="{x:Null}" IsCancel="True" />
+        <Button Content="Добавить" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="75" Margin="0,0,20,20" Grid.Column="1" Background="{x:Null}" Click="Button_Click"/>
+        <Label Content="Спорт (опц.):" HorizontalAlignment="Stretch" VerticalAlignment="Top" Grid.Column="0" Margin="10,80,0,0" Grid.RowSpan="2"/>
+        <TextBox x:Name="SportTB" Grid.Column="1" HorizontalAlignment="Stretch"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="10,84,20,0"  />
+    </Grid>
+</Window>

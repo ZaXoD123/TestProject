@@ -1,0 +1,6 @@
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\DataBase\bin\Debug\DataBase.dll
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\DataBase\bin\Debug\DataBase.pdb
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\DataBase\obj\Debug\DataBase.dll
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\DataBase\obj\Debug\DataBase.pdb

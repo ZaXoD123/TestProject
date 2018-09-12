@@ -1,0 +1,20 @@
+﻿<Window x:Class="StudentsBaseHD.StudentSearchWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentsBaseHD"
+        mc:Ignorable="d"
+        Title="Поиск" Height="200" Width="250" ResizeMode="NoResize">
+    <Grid>
+        <Label x:Name="SomeText1" Content="Год рождения:" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,110"/>
+        <Label x:Name="SomeText2" Visibility="Hidden" Content="Фамилия:" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,110"/>
+        <Label Content="Факультет:" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,70"/>
+        <TextBox x:Name="FirstArgTB" HorizontalAlignment="Right" TextWrapping="Wrap"  VerticalAlignment="Center" Width="50" Margin="0,0,20,110"/>
+        <TextBox x:Name="SecondArgTB" HorizontalAlignment="Right" TextWrapping="Wrap"  VerticalAlignment="Center" Width="50" Margin="0,0,20,70"/>
+        <Button Content="Отмена" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="75" Background="{x:Null}" Margin="20,0,0,10" IsCancel="True"/>
+        <Button Content="Искать" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="75" Background="{x:Null}" Margin="0,0,20,10" Click="Button_Click"/>
+        <RadioButton x:Name="YearRB" IsChecked="True" Content="по году рождения" HorizontalAlignment="Left" Margin="20,0,0,0" VerticalAlignment="Center" Checked="RadioButton_Checked_1"/>
+        <RadioButton Content="по факультету" HorizontalAlignment="Left" Margin="20,40,0,0" VerticalAlignment="Center" Checked="RadioButton_Checked"/>
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\DataBase\bin\Release\DataBase.dll
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\DataBase\bin\Release\DataBase.pdb
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\DataBase\obj\Release\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\DataBase\obj\Release\DataBase.dll
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\DataBase\obj\Release\DataBase.pdb

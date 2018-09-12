@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "StudentsBaseHD\GUI.csproj", "{4489B8F4-0D23-4AC3-8E63-0EA9A75369EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glue", "StudentsDataBase\Glue.csproj", "{36DB037C-76AF-4DC0-A0DE-D4DD3C2893DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{F72B8E51-39E1-4658-B5DC-53C43EFAA6DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4489B8F4-0D23-4AC3-8E63-0EA9A75369EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4489B8F4-0D23-4AC3-8E63-0EA9A75369EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4489B8F4-0D23-4AC3-8E63-0EA9A75369EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4489B8F4-0D23-4AC3-8E63-0EA9A75369EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DB037C-76AF-4DC0-A0DE-D4DD3C2893DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DB037C-76AF-4DC0-A0DE-D4DD3C2893DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DB037C-76AF-4DC0-A0DE-D4DD3C2893DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DB037C-76AF-4DC0-A0DE-D4DD3C2893DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72B8E51-39E1-4658-B5DC-53C43EFAA6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72B8E51-39E1-4658-B5DC-53C43EFAA6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72B8E51-39E1-4658-B5DC-53C43EFAA6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72B8E51-39E1-4658-B5DC-53C43EFAA6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B453AFC2-1BAE-4BE1-B36A-D37BE27E5BA2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\StudentsDataBase\bin\Release\StudentsDataBase.pdb
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\StudentsDataBase\obj\Release\Glue.csprojAssemblyReference.cache
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\StudentsDataBase\obj\Release\Glue.csproj.CoreCompileInputs.cache
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\StudentsDataBase\obj\Release\StudentsDataBase.pdb
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\StudentsDataBase\bin\Release\StudentsDataBase.dll.config
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\StudentsDataBase\bin\Release\StudentsDataBase.dll
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\StudentsDataBase\bin\Release\DataBase.dll
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\StudentsDataBase\bin\Release\DataBase.pdb
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\StudentsDataBase\obj\Release\Glue.csproj.CopyComplete
+C:\Users\ZaxoD\source\repos\StudentsBaseHD\StudentsDataBase\obj\Release\StudentsDataBase.dll
